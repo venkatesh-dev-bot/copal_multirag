@@ -1,0 +1,13 @@
+streamlit
+byaldi
+Pillow
+python-dotenv
+langchain-google-genai
+langchain-openai
+huggingface_hub 
+byaldi 
+transformers 
+pillow
+torch 
+python-dotenv
+langchain
